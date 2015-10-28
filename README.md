@@ -2,8 +2,8 @@
 
 Featuring:
 
-- Docker v1.6.1
-- Docker Compose v1.2.0
-- Docker Machine v0.2.0
+- Docker 1.8.3
+- Docker Compose 1.4.2
+- Docker Machine 0.4.1
 
-Blog post -> https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
+http://slides.com/gyorgyfekete/dockerify-django
